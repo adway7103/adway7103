@@ -1,0 +1,42 @@
+name: Generate Snake
+
+on:
+  # refresh daily
+  schedule:
+    - cron: "0 */24 * * *"
+
+  # allow manual runs
+  workflow_dispatch:
+
+  # regenerate whenever the profile README changes
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      # Reads the contribution graph and renders the snake as animated SVG.
+      # svg-only is faster than the default action since we don't need a GIF.
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: adway7103
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # Publishes dist/ to an orphan `output` branch, served via raw.githubusercontent.com.
+      # Deliberately not the branch the README lives on, so this can't trigger itself.
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,76 +1,91 @@
 <div align="center">
 
-# Adway Lachhiramka
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Adway%20Lachhiramka&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Backend%20Systems%20x%20Applied%20AI&descAlignY=58&descSize=20" alt="Adway Lachhiramka" />
 
-**Software Development Engineer — Backend Systems × Applied AI**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=F85D7F&center=true&vCenter=true&width=620&height=45&lines=Software+Development+Engineer+%40+Morgan+Stanley;Backend+Systems+x+Applied+AI;Java+%7C+Spring+Boot+%7C+Python;LLM+Agents+%7C+MCP+%7C+RAG+%7C+Evals" alt="What I work on" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://linkedin.com/in/adwaylachhiramka)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adwaylachhiramka@gmail.com)
+<br/>
+
+<a href="https://linkedin.com/in/adwaylachhiramka"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="mailto:adwaylachhiramka@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://custom-icon-badges.demolab.com/github/followers/adway7103?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=adway7103&style=for-the-badge&color=F85D7F&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
 ---
 
-I build backend systems that hold up under load, and LLM-powered tooling that does real work —
+I build **backend systems that hold up under load** and **LLM-powered tooling that does real work** —
 distributed services in Java and Spring Boot, agentic workflows in Python.
 
-**Currently** — Software Development Engineer at Morgan Stanley, working across backend services
-and applied AI.
+Currently a **Software Development Engineer at Morgan Stanley**, working across backend services and applied AI.
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
+
+<div align="center">
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,python,ts,js" alt="Java, Python, TypeScript, JavaScript" />
 
-**Backend**
+**Backend & APIs**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
-![Microservices](https://img.shields.io/badge/Microservices-2C3E50?style=flat-square)
-![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-2C3E50?style=flat-square)
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,maven" alt="Spring Boot, Node.js, Express, Maven" />
 
 **Data & Infrastructure**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,sqlite,docker,kubernetes,kafka,aws,linux&perline=5" alt="PostgreSQL, MongoDB, Redis, MySQL, SQLite, Docker, Kubernetes, Kafka, AWS, Linux" />
+
+**Tooling**
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,bash,idea,postman" alt="Git, GitHub, GitHub Actions, Bash, IntelliJ, Postman" />
 
 **AI / LLM**
 
-![Claude Code SDK](https://img.shields.io/badge/Claude_Code_SDK-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-412991?style=flat-square)
-![MCP](https://img.shields.io/badge/MCP-1F2937?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-0EA5E9?style=flat-square)
-![LLM Evals](https://img.shields.io/badge/LLM_Evals-0EA5E9?style=flat-square)
-![Guardrails](https://img.shields.io/badge/Guardrails-0EA5E9?style=flat-square)
+<img src="https://img.shields.io/badge/Claude_Code_SDK-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code SDK" />
+<img src="https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge" alt="AI Agents" />
+<img src="https://img.shields.io/badge/MCP-1F2937?style=for-the-badge" alt="MCP" />
+<img src="https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge" alt="RAG" />
+<img src="https://img.shields.io/badge/LLM_Evals-0EA5E9?style=for-the-badge" alt="LLM Evals" />
+
+</div>
 
 ---
 
-## Highlights
+## 📊 GitHub Activity
 
-🏆 **Finalist** — national technology-for-social-good hackathon, selected from 40,000+ applicants
-📈 **Rank 121 globally** — CodeChef September Long Challenge *(top 0.1%)*
-🧩 **500+ problems** solved on LeetCode — top 15% global rating
-🎓 **B.Tech, Computer Science** — KIIT · CGPA 8.54/10
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=adway7103&show_icons=true&include_all_commits=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=E8E8E8&hide=contribs,issues&rank_icon=github" alt="GitHub stats" />
+<img height="150" src="https://streak-stats.demolab.com?user=adway7103&theme=react&hide_border=true&background=1F222E&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=E8E8E8" alt="Contribution streak" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adway7103/adway7103/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adway7103/adway7103/output/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/adway7103/adway7103/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🏆 Highlights
+
+- 🥇 **Finalist** — national technology-for-social-good hackathon, selected from **40,000+ applicants**
+- 📈 **Rank 121 globally** — CodeChef September Long Challenge *(top 0.1%)*
+- 🧩 **500+ problems** solved on LeetCode — top 15% global rating
+- 🎓 **B.Tech, Computer Science** — KIIT · CGPA 8.54/10
 
 ---
 
 <div align="center">
 
 *Always interested in backend systems, distributed architecture, and production LLM systems.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" alt="" />
 
 </div>
