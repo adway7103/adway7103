@@ -78,7 +78,7 @@ Currently a **Software Development Engineer at Morgan Stanley**, working across 
 
 <div align="center">
 
-<a href="https://leetcode.com/u/adway7103/"><img width="500" src="https://leetcard.jacoblin.cool/adway7103?theme=dark&font=Fira%20Code&border=0&radius=10&colors=1F222E" alt="LeetCode stats" /></a>
+<a href="https://leetcode.com/u/adway7103/"><img width="500" src="https://leetcard.jacoblin.cool/adway7103?theme=dark&font=Fira%20Code&border=0&radius=10&colors=1F222E,404040,F0F0F0,DCDCDC,FFA116,5CB85C,F0AD4E,D9534F" alt="LeetCode stats" /></a>
 
 </div>
 
