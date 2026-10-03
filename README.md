@@ -74,6 +74,37 @@ Currently a **Software Development Engineer at Morgan Stanley**, working across 
 
 ---
 
+## 🧩 LeetCode
+
+<div align="center">
+
+<a href="https://leetcode.com/u/adway7103/"><img width="500" src="https://leetcard.jacoblin.cool/adway7103?theme=dark&font=Fira%20Code&border=0&radius=10&colors=1F222E" alt="LeetCode stats" /></a>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Stack | What it does |
+| :--- | :--- | :--- |
+| **[broker-demo](https://github.com/adway7103/broker-demo)** | Next.js 14 · TypeScript · Prisma · PostgreSQL · AWS S3 | Full-stack real-estate platform — client property search, admin management, and smart filtering |
+| **[organizer-dashboard-bms](https://github.com/adway7103/organizer-dashboard-bms)** | React · TypeScript · MUI · Google Maps · TanStack | Dashboard with map views, data tables, and date scheduling |
+| **[technotribes](https://github.com/adway7103/technotribes)** | Next.js · TypeScript · Framer Motion · Headless UI | Motion-designed site with integrated scheduling |
+| **[codevyasa](https://github.com/adway7103/codevyasa)** | Next.js · TypeScript · Framer Motion · Tailwind | Animated multi-section landing experience |
+
+---
+
+## 💼 Experience
+
+| Period | Role | Organization |
+| :--- | :--- | :--- |
+| `Aug 2026 – Present` | **Associate Software Engineer** | Morgan Stanley |
+| `Aug 2025 – Aug 2026` | **Technology Apprentice** | Morgan Stanley |
+| `Apr 2025 – Jul 2025` | **Software Engineering Intern** | Alaan (YC S23) |
+
+---
+
 ## 🏆 Highlights
 
 - 🥇 **Finalist** — **Morgan Stanley Code to Give** Hackathon, selected from **40,000+ applicants**
