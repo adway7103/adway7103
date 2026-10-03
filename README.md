@@ -2,12 +2,13 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Adway%20Lachhiramka&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Backend%20Systems%20x%20Applied%20AI&descAlignY=58&descSize=20" alt="Adway Lachhiramka" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=F85D7F&center=true&vCenter=true&width=620&height=45&lines=Software+Development+Engineer+%40+Morgan+Stanley;Backend+Systems+x+Applied+AI;Java+%7C+Spring+Boot+%7C+Python;LLM+Agents+%7C+MCP+%7C+RAG+%7C+Evals" alt="What I work on" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=F85D7F&center=true&vCenter=true&width=800&height=45&lines=Software+Development+Engineer+%40+Morgan+Stanley;Backend+Systems+x+Applied+AI;Java+%7C+Spring+Boot+%7C+Python;LLM+Agents+%7C+MCP+%7C+RAG+%7C+Evals" alt="What I work on" />
 
 <br/>
 
 <a href="https://linkedin.com/in/adwaylachhiramka"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
 <a href="mailto:adwaylachhiramka@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://leetcode.com/u/adway7103/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 <img src="https://custom-icon-badges.demolab.com/github/followers/adway7103?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" alt="Followers" />
 <img src="https://komarev.com/ghpvc/?username=adway7103&style=for-the-badge&color=F85D7F&label=PROFILE+VIEWS" alt="Profile views" />
 
@@ -75,10 +76,10 @@ Currently a **Software Development Engineer at Morgan Stanley**, working across 
 
 ## 🏆 Highlights
 
-- 🥇 **Finalist** — national technology-for-social-good hackathon, selected from **40,000+ applicants**
+- 🥇 **Finalist** — **Morgan Stanley Code to Give** Hackathon, selected from **40,000+ applicants**
 - 📈 **Rank 121 globally** — CodeChef September Long Challenge *(top 0.1%)*
-- 🧩 **500+ problems** solved on LeetCode — top 15% global rating
-- 🎓 **B.Tech, Computer Science** — KIIT · CGPA 8.54/10
+- 🧩 **337 problems** solved on [LeetCode](https://leetcode.com/u/adway7103/) — 210 Medium · 19 Hard
+- 🎓 **B.Tech, Computer Science** — KIIT University · CGPA 8.54/10
 
 ---
 
