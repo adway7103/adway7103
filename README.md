@@ -109,7 +109,7 @@ Currently a **Software Development Engineer at Morgan Stanley**, working across 
 
 - 🥇 **Finalist** — **Morgan Stanley Code to Give** Hackathon, selected from **40,000+ applicants**
 - 📈 **Rank 121 globally** — CodeChef September Long Challenge *(top 0.1%)*
-- 🧩 **337 problems** solved on [LeetCode](https://leetcode.com/u/adway7103/) — 210 Medium · 19 Hard
+- 🧩 **200+ Medium & Hard** problems solved on [LeetCode](https://leetcode.com/u/adway7103/)
 - 🎓 **B.Tech, Computer Science** — KIIT University · CGPA 8.54/10
 
 ---
